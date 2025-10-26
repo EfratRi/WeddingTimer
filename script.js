@@ -1,4 +1,4 @@
-const eventDate = new Date("2025-10-27T18:00:00").getTime();
+const eventDate = new Date("2025-10-27T19:00:00").getTime();
 
 function updateCountdown() {
     const now = new Date().getTime();
